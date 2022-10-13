@@ -1,33 +1,24 @@
 *{
     margin: 0px;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: 'Space Mono', monospace;
 }
 body{
     margin: 20px;
     background-color: hsl(233, 47%, 7%);
 }
 
-.imagen:before{
-    content: "";
-    width: 100%;
-    background-color: aqua;
-    position: absolute;
-    opacity: 0.5;
-}
-
-
 .imagen img{
     width: 100%;
     border-radius: 20px 20px 0px 0px;
 }
-
 
 .container{
     border-radius: 20px;
     background-color: hsl(244, 38%, 16%);
     color: white;
     text-align: center;
-    font-size: 15px;
-    font-family: 'Space Mono', monospace;
 }
 
 .general{
@@ -35,7 +26,6 @@ body{
 }
 
 p{
-    
     padding-top: 20px;
 }
 
@@ -55,10 +45,11 @@ p{
     padding: 0;
 }
 
-@media (min-width: 900px) {
+@media (min-width: 1440px) {
 .container{
     display: flex;
     flex-direction: row-reverse;
+    font-weight: 700;
     }
     div.imagen{
         width: 100%;
@@ -77,9 +68,12 @@ p{
     .general{
         padding: 70px;
         text-align: left;
+        margin-top: 120px;
+        
     }
 
     .info{
         text-align: left;
+        padding: 50px;
     }
 }

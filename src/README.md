@@ -1,15 +1,15 @@
-# Make-It-Real---404-Not-Found-Page
-**Make it real trabajo 01.**
+# DiaTres
+Tarjeta creada para practicar CSS y HTML
+
+
+**Make it real creación de tarjeta.**
 
 ## Descripción:
-Es una pagina de error. La puedes usar para dirigir alla a tu usuario cuando no exista la pagina que busca o esta esté fuera de servicio.
-
-## Instalación:
-Es suficiente con poner el contenido de las carpetas en tu proyecto. 
-No necesita librerias ni dependéncias.
+Es una proyecto creado usando unicamente HTML y CSS con cierta complejidad en el posicionamiento de elementos
 
 ## Cómo usar:
-Es necesario que en tu archivo principal uses el link para vincular los nuevos archivos.
+Es facil de usar. Puedes copiar el codigo fuente y solo tienes que poner el texto y la imagen que quieras
 
 ## Lo aprendido:
-Aprendo sobre posicionamiento con flexbox y a modificar mi repositorio en git
+Aprendo a usar nuevas propiedades de flexbox, position y sigo aprendiendo nuevas cosas de github,
+aun tengo pendiente hacerle algunas mejoras.
